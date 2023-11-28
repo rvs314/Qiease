@@ -1,0 +1,4 @@
+#+title: Qiease
+#+subtitle: Qi with Ease
+
+Qiease (pronounced "cheese") is a set of utilities for working with the [[https://docs.racket-lang.org/qi/index.html][Qi library]]
